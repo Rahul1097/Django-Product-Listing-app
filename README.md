@@ -2,6 +2,8 @@
 
 A simple Product Listing Application in Python-Django displaying all product information includes Product Name, Price and Quantity. It provides you feature to add new products, search product and inline editing of product information.
 
+<img src = "https://github.com/Rahul1097/Django-Product-Listing-app/blob/master/Images/Image1.PNG" width=100%>
+
 # Steps to setup Project on local-
 
 **Step 1** - Clone the repository using git clone.
@@ -36,4 +38,12 @@ A simple Product Listing Application in Python-Django displaying all product inf
 
 ```python manage.py runserver```
 
+# Technology Stack-
 
+1. Python-Django
+
+2. Postgresql
+
+3. Jquery Datatables
+
+4. Bootstrap
